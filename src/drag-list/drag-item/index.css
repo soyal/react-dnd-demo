@@ -1,0 +1,7 @@
+.drag-item {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  border: 2px solid #5a5a5a;
+}
